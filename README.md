@@ -11,7 +11,7 @@ Example application of an **IONIC** app using **CORDOVA** to show some native fu
 ## Setting up the project
 * [Download the installer](https://nodejs.org/) for Node LTS.
 * Install the ionic CLI globally: `npm install -g ionic`
-* Clone this repository: `git clone https://github.com/ionic-team/ionic-conference-app.git`.
+* Clone this repository: `git clone https://github.com/Hansel32/ionic-demo-app.git`.
 * Run `npm install` from the project root.
 * Run `ionic cordova run` in a terminal from the project root.
 * Enjoy. :tada:
@@ -30,5 +30,5 @@ Example application of an **IONIC** app using **CORDOVA** to show some native fu
 
 | Find Location  | Places Info  |
 | -----------------| -----|
-| ![Android Menu](/resources/screenshots/android-menu.png) | ![iOS Menu](/resources/screenshots/ios-menu.png) |
+| ![tab1](/resources/screenshots/tab1.jpg) | ![tab2](/resources/screenshots/tab2.jpg) |
 
