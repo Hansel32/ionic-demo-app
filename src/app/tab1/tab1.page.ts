@@ -55,7 +55,7 @@ export class Tab1Page implements OnInit{
       // add a marker
       let marker = this.map.addMarkerSync({
         title: location.latLng.lat + ', ' +location.latLng.lng,
-        snippet: 'Esta es tu ubicación actual',
+        snippet: 'This is your current location',
         position: location.latLng,
         animation: GoogleMapsAnimation.BOUNCE
       });

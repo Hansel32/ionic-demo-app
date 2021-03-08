@@ -54,7 +54,7 @@
     </div>
     <div class="back">
       <!-- back content -->
-      Esta es la iglesia central de chinandega donde se celebran las fiestas pratonales de chinandega
+      This is the central church of Chinandega, where is tradition to celebrate local festivities regarding to santa ana
       </div>
     </div>
   </div>`;
