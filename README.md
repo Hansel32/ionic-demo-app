@@ -32,3 +32,8 @@ Example application of an **IONIC** app using **CORDOVA** to show some native fu
 | -----------------| -----|
 | ![tab1](/resources/screenshots/tab1.jpg) | ![tab2](/resources/screenshots/tab2.jpg) |
 
+# Application demo
+  
+This demo application shows basic functionality, it only asks for location permission to get your current location.
+
+- [sample.apk](/resources/apk/app-debug.apk)
